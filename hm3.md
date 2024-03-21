@@ -4,12 +4,12 @@
 
 #### 1.
 Выпишу задачу максимизации прибыли.
-$
+$$
 \begin{cases}
     \pi = 2py-px \rightarrow max \\
     y = \sqrt{x}
 \end{cases}
-$
+$$
 
 #### 2.
 
