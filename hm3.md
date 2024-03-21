@@ -20,12 +20,12 @@ y = 1
 $y = \frac{2p}{2p}=1$
 
 #### 4.
-$
+$$
 \begin{cases}
     100lny + w \rightarrow max \\
     y = \sqrt{x}
 \end{cases}
-$
+$$
 
 $w = \bar{w} - 2y_1 - y_2^2$
 
