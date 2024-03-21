@@ -86,7 +86,7 @@ $$
 $$
 
 
-$x_1^* = \sqrt{\frac{p_2 e^y}{p_1}}, x_2^* = \sqrt{\frac{p_1 e^y}{p_2}}, a = \sqrt{p_1p_2e^y}$
+$$x_1^* = \sqrt{\frac{p_2 e^y}{p_1}}, x_2^* = \sqrt{\frac{p_1 e^y}{p_2}}, a = \sqrt{p_1p_2e^y}$$
 
 $TC=p_1x_1 + p_2x_2=2e^{y/2}\sqrt{p_1p_2}$
 
